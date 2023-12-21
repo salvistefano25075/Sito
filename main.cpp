@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-
+//palle
 struct Car{
     int Cid, Cs, Ct, Cc, Cd;
 };
